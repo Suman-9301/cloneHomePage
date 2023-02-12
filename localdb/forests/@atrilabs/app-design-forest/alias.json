@@ -1,0 +1,19 @@
+{
+  "Div": 8,
+  "Flex": 173,
+  "Image": 75,
+  "Link": 7,
+  "Button": 23,
+  "TextBox": 150,
+  "Carousel": 5,
+  "Countdown": 1,
+  "Input": 7,
+  "Rating": 1,
+  "Breadcrumb": 1,
+  "Modal": 1,
+  "Step": 3,
+  "Testimonial": 2,
+  "UnorderedList": 2,
+  "Form": 2,
+  "Cascader": 1
+}
